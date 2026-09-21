@@ -37,7 +37,7 @@ I am a first-year PhD candidate in the HKUST NLP Group at the Hong Kong Universi
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023) - Co-author
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023) - Co-author
 
-A complete list of my publications is also available on the [Publications](/publications/) page.
+A complete list of my publications is also available on the [Publications]({{ "/publications/" | relative_url }}) page.
 
 ## Awards
 
